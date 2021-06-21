@@ -88,20 +88,25 @@ img{
 line-height: 1.4em;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
-color: rgb(41, 13, 3);
+color: rgb(44, 23, 10);
 font-size: 1.2em;
 }
-footer{
-  background-color: rgb(29, 24, 22);
-    margin: 0;
-    color: white;
-    padding: 1rem 0;
+.iconos-info{
+    width: 100%;
+    background-color: rgba(250, 243, 239, 0.562);
+    margin-top: 40px;
+    
+}
+.iconos-info{
+max-width: 1200px;
+margin: auto;
 
 }
-.footer{
+.iconos-info{
     font-size: 1.2em;
     font-family: Arial;
     text-align: center;
+    border-radius: 100%;
 
 }
 
